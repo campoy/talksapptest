@@ -1,0 +1,9 @@
+Some title
+Francesc
+@francesc
+
+* Foo
+
+This file doesn't exist, an error should be displayed.
+
+.play foo.go
