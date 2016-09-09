@@ -1,0 +1,13 @@
+One test
+
+* something at the same level
+
+.code code.go
+
+* something below
+
+.code inside/code.go
+
+* something above
+
+.code ../code.go
